@@ -1,0 +1,95 @@
+{
+  "audio_path": "TP3/data/call_01.wav",
+  "model_id": "openai/whisper-small",
+  "device": "cuda",
+  "audio_duration_s": 36.757375,
+  "elapsed_s": 4.9423136711120605,
+  "rtf": 0.13445774272814803,
+  "segments": [
+    {
+      "segment_id": 0,
+      "start_s": 0.866,
+      "end_s": 3.294,
+      "text": "Hello, thank you for calling customer support."
+    },
+    {
+      "segment_id": 1,
+      "start_s": 3.682,
+      "end_s": 5.726,
+      "text": "My name is Alex and I will help you today."
+    },
+    {
+      "segment_id": 2,
+      "start_s": 6.178,
+      "end_s": 8.798,
+      "text": "I'm calling about an order that arrived damaged."
+    },
+    {
+      "segment_id": 3,
+      "start_s": 9.314,
+      "end_s": 12.19,
+      "text": "The package was delivered yesterday, but the screen is cracked."
+    },
+    {
+      "segment_id": 4,
+      "start_s": 12.77,
+      "end_s": 14.014,
+      "text": "I would like to refund."
+    },
+    {
+      "segment_id": 5,
+      "start_s": 14.498,
+      "end_s": 16.574,
+      "text": "or replacement as soon as possible."
+    },
+    {
+      "segment_id": 6,
+      "start_s": 17.57,
+      "end_s": 22.334,
+      "text": "The order number is AX19735."
+    },
+    {
+      "segment_id": 7,
+      "start_s": 23.33,
+      "end_s": 26.078,
+      "text": "you can reach me at john dot smith at"
+    },
+    {
+      "segment_id": 8,
+      "start_s": 26.37,
+      "end_s": 27.582,
+      "text": "example.com"
+    },
+    {
+      "segment_id": 9,
+      "start_s": 28.45,
+      "end_s": 29.054,
+      "text": "Also,"
+    },
+    {
+      "segment_id": 10,
+      "start_s": 29.346,
+      "end_s": 30.526,
+      "text": "My phone number is..."
+    },
+    {
+      "segment_id": 11,
+      "start_s": 31.106,
+      "end_s": 32.19,
+      "text": "side, side, side."
+    },
+    {
+      "segment_id": 12,
+      "start_s": 32.61,
+      "end_s": 34.142,
+      "text": "0199"
+    },
+    {
+      "segment_id": 13,
+      "start_s": 34.786,
+      "end_s": 35.262,
+      "text": "Thank you."
+    }
+  ],
+  "full_text": "Hello, thank you for calling customer support. My name is Alex and I will help you today. I'm calling about an order that arrived damaged. The package was delivered yesterday, but the screen is cracked. I would like to refund. or replacement as soon as possible. The order number is AX19735. you can reach me at john dot smith at example.com Also, My phone number is... side, side, side. 0199 Thank you."
+}
